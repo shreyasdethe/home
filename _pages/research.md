@@ -7,6 +7,8 @@ title: "Research Experience"
 excerpt: "Research Experience"
 ---
 
+Work in progress
+<!---
 My research interests broadly lie in **Applied Probability, Learning Theory, Optimization, Game Theory** and **Social Networks**. I am primarily interested in theoretical aspects of problems in these fields and I also like to apply these tools to solve real world problems.
 
 
@@ -51,3 +53,4 @@ Research Projects:
     * Used Linear Function Approximation and Approximate Dynamic Programming to learn the previously intractable Whittle Index Heuristic to solve the restless bandits problem.<br/>
     * Conducted simulations to test our algorithm in scheduling of web crawlers for ephemeral content.<br/>
     * [Paper](https://ieeexplore.ieee.org/abstract/document/8307959) published in Indian Control Conference 2018.<br/>
+--->
