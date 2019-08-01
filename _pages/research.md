@@ -53,4 +53,4 @@ Research Projects:
     * Used Linear Function Approximation and Approximate Dynamic Programming to learn the previously intractable Whittle Index Heuristic to solve the restless bandits problem.<br/>
     * Conducted simulations to test our algorithm in scheduling of web crawlers for ephemeral content.<br/>
     * [Paper](https://ieeexplore.ieee.org/abstract/document/8307959) published in Indian Control Conference 2018.<br/>
---->
+-->

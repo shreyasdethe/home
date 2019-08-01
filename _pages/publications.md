@@ -11,4 +11,4 @@ author_profile: true
 2. Karan N Chadha, Ankur A Kulkarni,  "On independent Cliques and Linear Complementarity Problems", submitted to Mathematics of Operations Research.\[[Link](https://arxiv.org/abs/1811.09798)\]
 
 3. Karan N Chadha, Ankur A Kulkarni,  "Effort Maximizing Play in Strategic Interaction on Networks", in preparation, Journal of Mathematical Economics.\[[Link](https://kc1729.github.io/files/aggeffort.pdf)\]
---->
+-->
