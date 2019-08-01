@@ -4,7 +4,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-*Work in Progress*
+Work in Progress
+
 <!---
 1. Vivek Borkar, Karan Chadha,  "A  reinforcement  learning  algorithm  for restless bandits", Indian Control Conference, 2018. \[[Link](https://ieeexplore.ieee.org/abstract/document/8307959)\]
 
