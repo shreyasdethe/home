@@ -6,7 +6,8 @@ use_math: true
 title: "Projects"
 excerpt: "Projects"
 ---
-**Work in Progress**
+Work in Progress
+
 <!---
 I have outlined my non-research projects in this page. My research work can be found [here](https://kc1729.github.io/research/)
 
