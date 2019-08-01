@@ -1,9 +1,7 @@
 ---
-permalink: /T/
-title: T
+title: "Timepass"
+permalink: /timepass/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 Work in Progress
