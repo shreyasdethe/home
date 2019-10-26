@@ -36,7 +36,7 @@ Projects:
     
 7.  **Colour Sensor using Phase Sensitive Detection** (March '18 - April '18) <br/>
     *Guide : [Prof. Siddharth Tallur](https://www.ee.iitb.ac.in/web/people/faculty/home/stallur), EE Department, IIT Bombay* <br/>
-    Commercially available colour sensors require a large number of photodiodes to sense the color. This project was a research project to test whether color sensing can be done with only three photodiodes corresponding to red, blue and green LEDs. The results from the project show that the colour can be sensed but only for a particular type of surface once it is calibrated for that particular type of surface, as it also depends heavily on the texture of the surface.
+    Commercially available colour sensors require a large number of photodiodes to sense the colour. This project was a research project to test whether color sensing can be done with only three photodiodes corresponding to red, blue and green LEDs. The results from the project show that the colour can be sensed but only for a particular type of surface once it is calibrated for that particular type of surface, as it also depends heavily on the texture of the surface.
     
 8.  **Texture Synthesis using Non-Parametric Sampling** (October '18 - November '18) <br/>
     *Guide : [Prof. Ajit Rajwade](https://www.cse.iitb.ac.in/~ajitvr/), CSE Department, IIT Bombay* <br/>
