@@ -8,7 +8,7 @@ main:
   #   url: /research/
   
   - title: "Home"
-    url: /
+    url: /home/
 
   - title: "Projects"
     url: /projects/    

@@ -1,11 +1,12 @@
 ---
-permalink: /home/
+permalink: /
 title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /home/
 ---
 
 I am a Fourth Year B.Tech student majoring in [Electrical Engineering](https://www.ee.iitb.ac.in/web) with Minor in [Computer Science & Engineering](https://www.cse.iitb.ac.in) at [IIT Bombay](http://www.iitb.ac.in). My interests lie broadly in the domains of **Computer architecture, High Performance Computing** and **VLSI system design**. I am also interested in exploring new fields like Compilers, Operating Systems, Information theory and their possible correlation with my current interests.
