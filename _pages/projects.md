@@ -8,7 +8,7 @@ excerpt: "Projects"
 ---
 
 <!-- Projects: -->
-===
+<!-- === -->
 1.  **Real-Time Server Based Communication Link** (July '19 - Present) <br/>
     *Guide : [Prof. Madhav Desai](https://www.ee.iitb.ac.in/web/people/faculty/home/madhav), EE Department, IIT Bombay* <br/>
     In this project, we are developing an end-to-end communication link. The audio signal is captured using a microphone circuit, which is then digitized and sent to FPGA for hardware encryption and compression. The data is then sent to a PC from where it is transmitted to the client via a server based on MQTT protocol. The received data is then decrypted and decompressed before forwarding it to a speaker circuit. The communication link is real-time and full-duplex operating at a sampling rate of 8kHz.
