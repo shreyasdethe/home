@@ -7,7 +7,7 @@ title: "Projects"
 excerpt: "Projects"
 ---
 
-Projects:
+<!-- Projects: -->
 ===
 1.  **Real-Time Server Based Communication Link** (July '19 - Present) <br/>
     *Guide : [Prof. Madhav Desai](https://www.ee.iitb.ac.in/web/people/faculty/home/madhav), EE Department, IIT Bombay* <br/>
