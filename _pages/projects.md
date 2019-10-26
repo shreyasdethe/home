@@ -8,6 +8,8 @@ excerpt: "Projects"
 ---
 Work in Progress
 
+Outline few projects with professor name and brief explanation of the project in a paragraph.
+
 <!---
 I have outlined my non-research projects in this page. My research work can be found [here](https://kc1729.github.io/research/)
 
