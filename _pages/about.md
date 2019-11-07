@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
   - /home/
+  - https://shreyasdethe.github.io/
 ---
 
 I am a Senior Undergraduate (Bachelor of Technology, B.Tech) student majoring in [Electrical Engineering](https://www.ee.iitb.ac.in/web) at [IIT Bombay](http://www.iitb.ac.in). My interests lie broadly in the domains of **Power Electronic Devices, High Density Power Converters** for **Electric Vehicles**. I am also interested in exploring new fields like Battery Management Systems, Solar Energy Power Converter Systems and their possible correlation with my current interests.
