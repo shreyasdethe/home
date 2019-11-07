@@ -8,13 +8,13 @@
 # Site Settings
 minimal_mistakes_skin    : "dark"
 locale                   : "en-US"
-title                    : "Mohil Patel Home Page"
+title                    : "Shreyas Dethe"
 title_separator          : " - "
-name                     : &name "Mohil  Patel"
-description              : &description "Personal homepage of Mohil Patel"
-url                      : https://mohilp1998.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mohilp1998/mohilp1998.github.io"
+name                     : &name "Shreyas Dethe"
+description              : &description "Personal homepage of Shreyas Dethe"
+url                      : https://shreyasdethe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/home" # the subpath of your site, e.g. "/blog"
+repository               : "shreyasdethe/home"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,13 +81,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mohil Patel"
-  avatar           : "mohil_image_2.jpg" # Image 
-  bio              : "Fourth Year B.Tech Student, Electrical Engineering, IIT Bombay"
+  name             : "Shreyas Dethe"
+  avatar           : "headshot.jpeg" # Image 
+  bio              : "Senior Undergraduate Student, B.Tech, Electrical Engineering, IIT Bombay"
   location         : "Mumbai, India"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "mohilp1998[at]gmail.com"
+  email            : "shreyasdethe9[at]gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -95,12 +95,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : mohilp1998
+  github           : shreyasdethe
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : shreyas_dethe
   lastfm           :
-  linkedin         :
+  linkedin         : shreyas-dethe-710900155
   orcid            : 
   pinterest        :
   soundcloud       :
