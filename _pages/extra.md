@@ -9,7 +9,7 @@ author_profile: true
 
 
 2.  **I-Hack (Hardware track)** <br/>
-	*E-Cell, IIT Bombay*
+	*E-Cell, IIT Bombay* <br/>
 	Designed and developed a system which uses an encrypted RFID readable card as the primary health card of any person. It was designed in such a way that only registered doctors could write to information to it such as new prescriptions or tests, registered service providers can only read it such that they can know what the doctor has prescribed, and any general public can read only basic medical data like blood group and allergy information, so that immediate medical attention can be provided. It was developed using the Arduino ecosystem. Our team won the first prize, conducted by E-Cell in alliance with [Micron](https://www.micron.com).
 
 
