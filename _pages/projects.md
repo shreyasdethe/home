@@ -25,12 +25,12 @@ excerpt: "Projects"
 
 4.  **Multiple Drone Tracking and Localization** (December '17) <br/>
     *[Drona Aviation](https://www.dronaaviation.com/), IIT Bombay* <br/>
-    In the project, we localized multiple drones' position using WhyCon ROS package and extracted 3D coordinates of multiple drones in real-time with accuracy upto 3cm. These coordinates were later used in a project to automate drone's flight movement based on its past location. I developed a way to control a swarm of drines using the Master-Slave topology and specific IP addresses provided to individual drones, using the ESP8266 WiFi module.
+    In the project, we localized multiple drones' position using WhyCon ROS package and extracted 3D coordinates of multiple drones in real-time with accuracy upto 3cm. These coordinates were later used in a project to automate drone's flight movement based on its past location. I developed a way to control a swarm of drones using the Master-Slave topology and specific IP addresses provided to individual drones, using the ESP8266 WiFi module.
 
 
 5.  **Faster computation of correlation of NavIC data** (April '19) <br/>
     *Knowledge Incubation under TEQIP, MHRD, Govt. of India* <br/>
-    Working with a team of three, we developed an algorithm for faster correlation of local data received from a NavIC receiver. The method involved moving from the traditional linear search to the circular serach algorithm, which in the frequency domain translates to the fourier transform. Computing FFT (Fast Fourier Transform) is a relatively computationally inexpensive task, hence the overall computation time for correlation reduced by 7000%, in our MATLAB implementation. This faster correlation  time will reduce the cold start time of future NavIC receivers.
+    Working with a team of three, we developed an algorithm for faster correlation of local data received from a NavIC receiver. The method involved moving from the traditional linear search to the circular search algorithm, which in the frequency domain translates to the fourier transform. Computing FFT (Fast Fourier Transform) is a relatively computationally inexpensive task, hence the overall computation time for correlation is reduced by 7000%, in our MATLAB implementation. This faster correlation  process will reduce the cold-start time of future NavIC receivers.
 
 
 6.  **Automated Strawberry Plucker** (December '18) <br/>
