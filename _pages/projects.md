@@ -13,7 +13,7 @@ excerpt: "Projects"
     This project involves designing and building a high power density DC-DC converter based on the Dual Active Bridge topology. We have simulated a 2000 W converter in PLECS, using single phase shift modulation, dual phase shift modulation types 1 and 3. The goal is to study the various parameters of operation critical in determining the components of the circuit, like peak current in the transformer, average load current etc. We are developing the converter on a PCB using high power IGBTs and/or SiC MOSFETs alongwith a high frequency transformer.
     
     
-2.  **High Frequency Gate Driver Circuits for SiC MOSFETs | Summer Internship** (May '19 - July '19) <br/>
+2.  **High Frequency Gate Driver Circuits for SiC MOSFETs | Summer Internship** (Summer '19) <br/>
     *[Boson Motors](http://bosonmotors.com), Pune* <br/>
     Since the emergence of SiC MOSFETs, they have been in great demand due to their large power density, low on-state resistance and very small rise and fall times. In this project I designed and built a dual channel isolated gate driver circuit operating at a switching frequency upwards of 100 kHz. Auxiliary circuits for the driver design which includes snubber circuits and short-circuit protection circuits were implemented and verified through simulation. Also, the MOSFET behaviour was tested using the driver circuit under various driving conditions and load.
 
@@ -25,11 +25,11 @@ excerpt: "Projects"
 
 4.  **Multiple Drone Tracking and Localization** (December '17) <br/>
     *[Drona Aviation](https://www.dronaaviation.com/), IIT Bombay* <br/>
-    In the project, we localized the drones' position using Whycon ROS package and extracted 3D coordinates of multiple drones in real-time with accuracy upto 3cm. These coordinates were later used in a project to automate drone's flight movement based on its past location. I developed a way to control a swarm of drines using the Master-Slave topology and specific IP addresses provided to individual drones, using the ESP8266 WiFi module.
+    In the project, we localized multiple drones' position using WhyCon ROS package and extracted 3D coordinates of multiple drones in real-time with accuracy upto 3cm. These coordinates were later used in a project to automate drone's flight movement based on its past location. I developed a way to control a swarm of drines using the Master-Slave topology and specific IP addresses provided to individual drones, using the ESP8266 WiFi module.
 
 
 5.  **Faster computation of correlation of NavIC data** (April '19) <br/>
-    *Knowledge Incubation under TEQIP, MHRD, Govt. of India*
+    *Knowledge Incubation under TEQIP, MHRD, Govt. of India* <br/>
     Working with a team of three, we developed an algorithm for faster correlation of local data received from a NavIC receiver. The method involved moving from the traditional linear search to the circular serach algorithm, which in the frequency domain translates to the fourier transform. Computing FFT (Fast Fourier Transform) is a relatively computationally inexpensive task, hence the overall computation time for correlation reduced by 7000%, in our MATLAB implementation. This faster correlation  time will reduce the cold start time of future NavIC receivers.
 
 
