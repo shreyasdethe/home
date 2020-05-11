@@ -15,5 +15,5 @@ A dart is thrown randomly at the board on which a square encircling a circle is 
 ### [Raycasting example](https://shreyasdethe,github.io/raycasting) - Jun 18, 2019
 Back in the days when 3D graphics were not possible yet, game developers used a technique called 'Raycasting' which provided a '3D effect' to the game. Raycasting is different than raytracing, and is a lot faster because it requires only 2D computations. Use the arrow keys on your keyboard! Mobile content not supported yet. <br/>
 
-### [Fourier series representation of a square wave](https://shreyasdethe.github.io/pi) - Mar 20, 2019
+### [Fourier series representation of a square wave](https://shreyasdethe.github.io/fourierseries) - Mar 20, 2019
 We know that a square wave consists of infinitely many frequencies which are the odd multiples of the fundamental frequency. This representation shows how a square wave can be generated using sine waves. Increases the order slowly to see the effect! <br/>
