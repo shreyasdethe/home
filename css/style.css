@@ -121,7 +121,6 @@ a {
     font-size: 0.8em;
     padding: 0.8em;
     margin-top: 1.25em;
-    color: var(--white2);
     background-color: var(--gray2);
     border: 2px var(--white3) solid;
     border-radius: 5px;
@@ -129,10 +128,17 @@ a {
     transition: background-color 0.5s;
 }
 
+.download-cv a {
+    color: var(--white2);
+}
+
 .download-cv:hover {
-    color: var(--gray2);
     background-color: var(--white1);
     cursor: pointer;
+}
+
+.download-cv a:hover {
+    color: var(--gray2);
 }
 
 .home-right {
